@@ -1,6 +1,6 @@
 # Railway Operation Simulator Project Status
 
-This repository is here to provide a project board for displaying the status of various ongoing and proposed simulations for Railway Oepration Simulator which can be found [here](https://github.com/orgs/Railway-Op-Sim/projects/5).
+This repository is here to provide a project board for displaying the status of various ongoing and proposed simulations for Railway Oepration Simulator which can be found [here](https://github.com/orgs/Railway-Op-Sim/projects/6).
 
 ## Adding a Project
 When adding a project to the board please ensure you:
