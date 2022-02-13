@@ -5,7 +5,7 @@ This repository is here to provide a project board for displaying the status of 
 ## Adding a Project
 When adding a project to the board please ensure you:
 * Firstly add a card to the relevant column, then make sure to convert the card to an issue under the `ProjectStatus` repository.
-* Project name in the usual form of `<country-abbreviation> <name>` (e.g. `UK Crewe`).
+* Project name in the usual form of `<country-abbreviation> <name>` (e.g. `GB Crewe`).
 * In the description provide a link to the GitHub repository for the project itself (e.g. [FR Paris Metro](https://github.com/Railway-Op-Sim/FR-ParisMetro))
 * Tag the issue with the relevant labels (see [below](#labelling))
 
