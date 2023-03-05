@@ -1,0 +1,168 @@
+[submodule "projects/GB/IslandLine"]
+	path = projects/GB/IslandLine
+	url = https://github.com/Railway-Op-Sim/GB-IslandLine.git
+[submodule "projects/GB/ValleyLines"]
+	path = projects/GB/ValleyLines
+	url = https://github.com/Railway-Op-Sim/GB-ValleyLines.git
+[submodule "projects/IT/MetropolitanaDiNapoli"]
+	path = projects/IT/MetropolitanaDiNapoli
+	url = https://github.com/Railway-Op-Sim/IT-MetropolitanaDiNapoli.git
+[submodule "projects/GB/BarnhamArea"]
+	path = projects/GB/BarnhamArea
+	url = https://github.com/Railway-Op-Sim/GB-BarnhamArea.git
+[submodule "projects/GB/NottinghamTramsNorth"]
+	path = projects/GB/NottinghamTramsNorth
+	url = https://github.com/Railway-Op-Sim/GB-NottinghamTramsNorth.git
+[submodule "projects/CH/GenevaArea"]
+	path = projects/CH/GenevaArea
+	url = https://github.com/Railway-Op-Sim/CH-GenevaArea.git
+[submodule "projects/FR/ParisMetro"]
+	path = projects/FR/ParisMetro
+	url = https://github.com/Railway-Op-Sim/FR-ParisMetro.git
+[submodule "projects/GB/DLR"]
+	path = projects/GB/DLR
+	url = https://github.com/Railway-Op-Sim/GB-DLR.git
+[submodule "projects/GB/Wrexham_To_Bidston"]
+	path = projects/GB/Wrexham_To_Bidston
+	url = https://github.com/Railway-Op-Sim/GB-Wrexham_To_Bidston.git
+[submodule "projects/US/MetraElectricDistrict"]
+	path = projects/US/MetraElectricDistrict
+	url = https://github.com/Railway-Op-Sim/US-MetraElectricDistrict.git
+[submodule "projects/GB/Wakefield"]
+	path = projects/GB/Wakefield
+	url = https://github.com/Railway-Op-Sim/GB-Wakefield.git
+[submodule "projects/GB/SheffieldSupertram"]
+	path = projects/GB/SheffieldSupertram
+	url = https://github.com/Railway-Op-Sim/GB-SheffieldSupertram.git
+[submodule "projects/GB/LlandudnoJct"]
+	path = projects/GB/LlandudnoJct
+	url = https://github.com/Railway-Op-Sim/GB-LlandudnoJct.git
+[submodule "projects/FN/XmasTree"]
+	path = projects/FN/XmasTree
+	url = https://github.com/Railway-Op-Sim/FN-XmasTree.git
+[submodule "projects/GB/ClaphamJunction"]
+	path = projects/GB/ClaphamJunction
+	url = https://github.com/Railway-Op-Sim/GB-ClaphamJunction.git
+[submodule "projects/GB/LondonWaterloo"]
+	path = projects/GB/LondonWaterloo
+	url = https://github.com/Railway-Op-Sim/GB-LondonWaterloo.git
+[submodule "projects/GB/RotherhamAndDearneValley"]
+	path = projects/GB/RotherhamAndDearneValley
+	url = https://github.com/Railway-Op-Sim/GB-RotherhamAndDearneValley.git
+[submodule "projects/CH/Bernina-Express"]
+	path = projects/CH/Bernina-Express
+	url = https://github.com/Railway-Op-Sim/CH-Bernina-Express.git
+[submodule "projects/GB/SheffieldEast"]
+	path = projects/GB/SheffieldEast
+	url = https://github.com/Railway-Op-Sim/GB-SheffieldEast.git
+[submodule "projects/GB/KingsCross"]
+	path = projects/GB/KingsCross
+	url = https://github.com/Railway-Op-Sim/GB-KingsCross.git
+[submodule "projects/JP/Enoshima-Railway"]
+	path = projects/JP/Enoshima-Railway
+	url = https://github.com/Railway-Op-Sim/JP-Enoshima-Railway.git
+[submodule "projects/BE/Anterwerpen-Centraal"]
+	path = projects/BE/Anterwerpen-Centraal
+	url = https://github.com/Railway-Op-Sim/BE-Anterwerpen-Centraal.git
+[submodule "projects/GB/SouthLondonAndThameslink"]
+	path = projects/GB/SouthLondonAndThameslink
+	url = https://github.com/Railway-Op-Sim/GB-SouthLondonAndThameslink.git
+[submodule "projects/GB/Crewe"]
+	path = projects/GB/Crewe
+	url = https://github.com/Railway-Op-Sim/GB-Crewe.git
+[submodule "projects/GB/LeedsAndBradford"]
+	path = projects/GB/LeedsAndBradford
+	url = https://github.com/Railway-Op-Sim/GB-LeedsAndBradford.git
+[submodule "projects/GB/Glasgow-Suburban"]
+	path = projects/GB/Glasgow-Suburban
+	url = https://github.com/Railway-Op-Sim/GB-Glasgow-Suburban.git
+[submodule "projects/FN/Xmas2021"]
+	path = projects/FN/Xmas2021
+	url = https://github.com/Railway-Op-Sim/FN-Xmas2021.git
+[submodule "projects/GB/SuttonEpsomWimbledon"]
+	path = projects/GB/SuttonEpsomWimbledon
+	url = https://github.com/Railway-Op-Sim/GB-SuttonEpsomWimbledon.git
+[submodule "projects/GB/Croydon"]
+	path = projects/GB/Croydon
+	url = https://github.com/Railway-Op-Sim/GB-Croydon.git
+[submodule "projects/IE/Dublin-Area"]
+	path = projects/IE/Dublin-Area
+	url = https://github.com/Railway-Op-Sim/IE-Dublin-Area.git
+[submodule "projects/IT/SFM-Torino"]
+	path = projects/IT/SFM-Torino
+	url = https://github.com/Railway-Op-Sim/IT-SFM-Torino.git
+[submodule "projects/FN/LeedsLightMetro"]
+	path = projects/FN/LeedsLightMetro
+	url = https://github.com/Railway-Op-Sim/FN-LeedsLightMetro.git
+[submodule "projects/AR/Tren-de-la-Costa"]
+	path = projects/AR/Tren-de-la-Costa
+	url = https://github.com/Railway-Op-Sim/AR-Tren-de-la-Costa.git
+[submodule "projects/GB/ChathamMainLine-Medway"]
+	path = projects/GB/ChathamMainLine-Medway
+	url = https://github.com/Railway-Op-Sim/GB-ChathamMainLine-Medway.git
+[submodule "projects/GB/ChathamMainLine-Chislehurst"]
+	path = projects/GB/ChathamMainLine-Chislehurst
+	url = https://github.com/Railway-Op-Sim/GB-ChathamMainLine-Chislehurst.git
+[submodule "projects/GB/ChathamMainline-CatfordLoop"]
+	path = projects/GB/ChathamMainline-CatfordLoop
+	url = https://github.com/Railway-Op-Sim/GB-ChathamMainline-CatfordLoop.git
+[submodule "projects/GB/Huddersfield"]
+	path = projects/GB/Huddersfield
+	url = https://github.com/Railway-Op-Sim/GB-Huddersfield.git
+[submodule "projects/GB/SunshineCoastLine"]
+	path = projects/GB/SunshineCoastLine
+	url = https://github.com/Railway-Op-Sim/GB-SunshineCoastLine.git
+[submodule "projects/GB/North-London-Line"]
+	path = projects/GB/North-London-Line
+	url = https://github.com/Railway-Op-Sim/GB-North-London-Line.git
+[submodule "projects/GB/Merseyrail"]
+	path = projects/GB/Merseyrail
+	url = https://github.com/Railway-Op-Sim/GB-Merseyrail.git
+[submodule "projects/GB/Lincoln"]
+	path = projects/GB/Lincoln
+	url = https://github.com/Railway-Op-Sim/GB-Lincoln.git
+[submodule "projects/US/PATH"]
+	path = projects/US/PATH
+	url = https://github.com/Railway-Op-Sim/US-PATH.git
+[submodule "projects/GB/London-Underground"]
+	path = projects/GB/London-Underground
+	url = https://github.com/Railway-Op-Sim/GB-London-Underground.git
+[submodule "projects/GB/Shrewsbury"]
+	path = projects/GB/Shrewsbury
+	url = https://github.com/Railway-Op-Sim/GB-Shrewsbury.git
+[submodule "projects/GB/West-Highlands"]
+	path = projects/GB/West-Highlands
+	url = https://github.com/Railway-Op-Sim/GB-West-Highlands.git
+[submodule "projects/FN/Xmas-2022"]
+	path = projects/FN/Xmas-2022
+	url = https://github.com/Railway-Op-Sim/FN-Xmas-2022.git
+[submodule "projects/GB/South-West-Wales"]
+	path = projects/GB/South-West-Wales
+	url = https://github.com/Railway-Op-Sim/GB-South-West-Wales.git
+[submodule "projects/GB/Alton"]
+	path = projects/GB/Alton
+	url = https://github.com/Railway-Op-Sim/GB-Alton.git
+[submodule "projects/GB/High-Speed-1"]
+	path = projects/GB/High-Speed-1
+	url = https://github.com/Railway-Op-Sim/GB-High-Speed-1.git
+[submodule "projects/IR/Mashhad-Urban-Railway"]
+	path = projects/IR/Mashhad-Urban-Railway
+	url = https://github.com/Railway-Op-Sim/IR-Mashhad-Urban-Railway.git
+[submodule "projects/PT/Linha-do-Algarve"]
+	path = projects/PT/Linha-do-Algarve
+	url = https://github.com/Railway-Op-Sim/PT-Linha-do-Algarve.git
+[submodule "projects/GB/South-West-Main-Line"]
+	path = projects/GB/South-West-Main-Line
+	url = https://github.com/Railway-Op-Sim/GB-South-West-Main-Line.git
+[submodule "projects/GB/Midland-Main-Line-South"]
+	path = projects/GB/Midland-Main-Line-South
+	url = https://github.com/Railway-Op-Sim/GB-Midland-Main-Line-South.git
+[submodule "projects/GB/Blackpool"]
+	path = projects/GB/Blackpool
+	url = https://github.com/Railway-Op-Sim/GB-Blackpool.git
+[submodule "projects/GB/Bognor-Regis"]
+	path = projects/GB/Bognor-Regis
+	url = https://github.com/Railway-Op-Sim/GB-Bognor-Regis.git
+[submodule "projects/GB/Bury-St-Edmunds"]
+	path = projects/GB/Bury-St-Edmunds
+	url = https://github.com/Railway-Op-Sim/GB-Bury-St-Edmunds.git
