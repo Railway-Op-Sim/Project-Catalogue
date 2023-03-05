@@ -1,4 +1,4 @@
-# Railway Operation Simulator Project Status
+# Railway Operation Simulator Community Projects
 
 This repository forms the main project catalogue for Railway Operation Simulator community created content, projects are added as Git submodules from their source repository. These repositories are typically created using the [Template](https://github.com/Railway-Op-Sim/UN-Template) project.
 
