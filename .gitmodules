@@ -88,9 +88,6 @@
 [submodule "projects/IE/Dublin-Area"]
 	path = projects/IE/Dublin-Area
 	url = https://github.com/Railway-Op-Sim/IE-Dublin-Area.git
-[submodule "projects/IT/SFM-Torino"]
-	path = projects/IT/SFM-Torino
-	url = https://github.com/Railway-Op-Sim/IT-SFM-Torino.git
 [submodule "projects/FN/LeedsLightMetro"]
 	path = projects/FN/LeedsLightMetro
 	url = https://github.com/Railway-Op-Sim/FN-LeedsLightMetro.git
@@ -112,9 +109,6 @@
 [submodule "projects/GB/SunshineCoastLine"]
 	path = projects/GB/SunshineCoastLine
 	url = https://github.com/Railway-Op-Sim/GB-SunshineCoastLine.git
-[submodule "projects/GB/North-London-Line"]
-	path = projects/GB/North-London-Line
-	url = https://github.com/Railway-Op-Sim/GB-North-London-Line.git
 [submodule "projects/GB/Merseyrail"]
 	path = projects/GB/Merseyrail
 	url = https://github.com/Railway-Op-Sim/GB-Merseyrail.git
