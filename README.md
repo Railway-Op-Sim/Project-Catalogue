@@ -3,7 +3,7 @@
 This repository forms the main project catalogue for Railway Operation Simulator community created content, projects are added as Git submodules from their source repository. These repositories are typically created using the [Template](https://github.com/Railway-Op-Sim/UN-Template) project.
 
 ## Project Board
-
+ 
 The project kanban board can be used to keep track of what projects are ongoing, you are welcome to add your own projects here.
 
 ### Adding a Project
